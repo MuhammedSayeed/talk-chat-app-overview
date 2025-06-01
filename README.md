@@ -38,11 +38,6 @@ A full-featured real-time chat web application built with a modern tech stack. T
 **Authentication:** JWT  
 **Deployment:** Vercel (frontend), Railway (backend)
 
----
-
-## 📸 Screenshots (Optional)
-
-> *(Add screenshots here if you'd like to impress visually)*
 
 ---
 
